@@ -3,13 +3,13 @@
 #Pregunta cantidad de bebida
 #Muestra total a pagar
 
-print("Awitas de uwu")
-print(--------------------------------)
-print("_MENÚ DE BEBIDA_"
+print("AGUAS ZACATECAS")
+print("--------------------------------")
+print("_MENÚ DE BEBIDA_")
 print("1. Agua de coco")
 print("2. Agua de sandía")
 print("3. Agua de piña")
-print(--------------------------------)
+print("--------------------------------")
 
 op= int(input("Elige una opción del menú: "))
 cantidad= int(input("¿Cuántos litros quieres? "))
